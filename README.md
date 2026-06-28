@@ -1,5 +1,5 @@
 # OCTOBUD-Autonomous-Spider-Desk-Buddy---AI-integrated-
-OCTOBOT🕷️🤖
+OCTOBUD🕷️🤖
 An autonomous, AI-powered spider desk companion equipped with surrounding awareness, a camera, and voice interaction.
 
 ## 💡 The Vision
