@@ -3,14 +3,40 @@ OCTOBUD🕷️🤖
 An autonomous, AI-powered spider desk companion equipped with surrounding awareness, a camera, and voice interaction.
 
 ## 💡 The Vision
-* **Why am I making this?** There is big space in good desk buddies in the bot scenario especially those with good functionality and originality. That is why I am making 'OCTOBUD' an Autonomous Spider Desk Buddy.That will be my intelligent buddy that can interact with me and control IOT also apps in my PC.
-* **What my project does:** Octobud sits on a desk it holds enough functionality to hold proper conversations with people recognize objects and faces,environment awarness so it walks only around the desk and not fall off,and IOT integration for functionality.The AI initially will be made to run on cloud based API for the obvious fund reasons :P but at the end if it runs on cloud it will be more accessible.
+* **Why am I making this?** There is big space in good desk buddies in the bot scenario especially those with good functionality and originality. Most desktop robots today are either simple toys or expensive research platforms. OCTOBUD aims to bridge that gap by creating an affordable, open-source AI desk companion with real autonomy, personality, and practical functionality. That is why I am making 'OCTOBUD' an Autonomous Spider Desk Buddy.be
+* **What my project does:** Octobud sits on a desk it holds enough functionality to hold proper conversations with people recognize objects and faces,environmental awarness so it walks only around the desk and not fall off,and IOT integration for functionality.The AI initially will be made to run on cloud based API for the obvious fund reasons :P but at the end if it runs on cloud it will be more accessible.
+
+## Features
+
+✅ Autonomous walking
+
+✅ Edge detection
+
+✅ Obstacle avoidance
+
+✅ Face recognition
+
+✅ Object recognition
+
+✅ Voice conversations
+
+✅ OLED facial expressions
+
+✅ Cloud AI
+
+✅ Wi-Fi connectivity
+
+✅ IoT control
+
+✅ PC automation
+
+✅ Modular open-source hardware
 
 ## 🛠️ The System Design(Initial Draft - Will be changed)
 * **Core Brain:** [ESP32/ Raspberry Pi Pico W / etc.]
 * **AI Logic:** Cloud API via Wi-Fi 
 * **Perception:** [Ultrasonic/ToF Sensor for edge detection, Camera for vision]
-* **Interaction:** I2S Microphone, I2S Speaker, and a small OLED display for digital expressions.
+* **Interaction:** I2S Microphone, I2S Speaker, and a small OLED/LED display for digital expressions.
 * **Movement:** 8x Micro Servos driven by a PCA9685 I2C driver.
 
 ## 📂 Repository Structure
