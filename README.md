@@ -32,13 +32,6 @@ An autonomous, AI-powered spider desk companion equipped with surrounding awaren
 
 ✅ Modular open-source hardware
 
-## 🛠️ The System Design(Initial Draft - Will be changed)
-* **Core Brain:** [ESP32/ Raspberry Pi Pico W / etc.]
-* **AI Logic:** Cloud API via Wi-Fi 
-* **Perception:** [Ultrasonic/ToF Sensor for edge detection, Camera for vision]
-* **Interaction:** I2S Microphone, I2S Speaker, and a small OLED/LED display for digital expressions.
-* **Movement:** 8x Micro Servos driven by a PCA9685 I2C driver.
-
 ## 📂 Repository Structure
 * `/firmware` - Code for the microcontroller and API integration.
 * `/hardware` - CAD `.STEP`/`.STL` files and circuit schematics.
